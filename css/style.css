@@ -1,0 +1,75 @@
+
+.menu ul li {
+	color: blue;
+	background-color: gold;
+	float: left;
+	list-style: none;
+	width: 363px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+.menu ul li:hover {
+	background-color: white;
+	color: purple;
+	border: 5px solid green;
+	border-radius: 30px;
+}
+
+
+#about {
+	
+	padding: 200px;
+}
+
+#education {
+
+	padding: 200px;
+
+}
+
+#contact {
+	
+	padding: 200px;
+}
+
+#reference {
+	
+	padding: 200px;
+}
+
+.col-md-6 {
+	padding: 0px;
+	width: 100%;
+}
+
+#skills {
+	
+	padding: 100px;
+	margin: 200px;
+	background-image: url(image/bup.jpg);
+  	background-color: #cccccc;
+  	height: 500px;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover; 
+  	position: relative;
+}
+
+
+p {
+	color: red;
+}
+
+h1 {
+	color: #057cf7;
+}
+
+table {
+	border: 20px;
+	border-color: blue;
+	border-width: 20px;
+}
